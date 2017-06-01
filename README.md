@@ -20,7 +20,7 @@ Note: all of the correlation methods mentioned above use the Pearson or t-test c
 ## How to run this pipeline with Our data
 * * * 
 
-### 1. Clone the Samples_Clustering_Pipeline Repo
+### 1. Clone the Gene_Prioritization_Pipeline Repo
 ```
  git clone https://github.com/KnowEnG-Research/Gene_Prioritization_Pipeline.git
 ```
