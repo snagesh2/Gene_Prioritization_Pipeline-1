@@ -22,7 +22,7 @@ Note: all of the correlation methods mentioned above use the Pearson or t-test c
 
 ### 1. Clone the Samples_Clustering_Pipeline Repo
 ```
- git clone https://github.com/KnowEnG-Research/Samples_Clustering_Pipeline.git
+ git clone https://github.com/KnowEnG-Research/Gene_Prioritization_Pipeline.git
 ```
  
 ### 2. Install the following (Ubuntu or Linux)
